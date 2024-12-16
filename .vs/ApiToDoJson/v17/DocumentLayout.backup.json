@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\henri\\source\\repos\\ApiToDoJson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4763930B-F61F-4298-ACB2-CFC76F86BA31}|ApiToDoJson.csproj|c:\\users\\henri\\source\\repos\\apitodojson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4763930B-F61F-4298-ACB2-CFC76F86BA31}|ApiToDoJson.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4763930B-F61F-4298-ACB2-CFC76F86BA31}|ApiToDoJson.csproj|c:\\users\\henri\\source\\repos\\apitodojson\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4763930B-F61F-4298-ACB2-CFC76F86BA31}|ApiToDoJson.csproj|solutionrelative:controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4763930B-F61F-4298-ACB2-CFC76F86BA31}|ApiToDoJson.csproj|c:\\users\\henri\\source\\repos\\apitodojson\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4763930B-F61F-4298-ACB2-CFC76F86BA31}|ApiToDoJson.csproj|solutionrelative:services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4763930B-F61F-4298-ACB2-CFC76F86BA31}|ApiToDoJson.csproj|c:\\users\\henri\\source\\repos\\apitodojson\\interfaces\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4763930B-F61F-4298-ACB2-CFC76F86BA31}|ApiToDoJson.csproj|solutionrelative:interfaces\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4763930B-F61F-4298-ACB2-CFC76F86BA31}|ApiToDoJson.csproj|c:\\users\\henri\\source\\repos\\apitodojson\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4763930B-F61F-4298-ACB2-CFC76F86BA31}|ApiToDoJson.csproj|solutionrelative:repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4763930B-F61F-4298-ACB2-CFC76F86BA31}|ApiToDoJson.csproj|c:\\users\\henri\\source\\repos\\apitodojson\\interfaces\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4763930B-F61F-4298-ACB2-CFC76F86BA31}|ApiToDoJson.csproj|solutionrelative:interfaces\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4763930B-F61F-4298-ACB2-CFC76F86BA31}|ApiToDoJson.csproj|c:\\users\\henri\\source\\repos\\apitodojson\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4763930B-F61F-4298-ACB2-CFC76F86BA31}|ApiToDoJson.csproj|solutionrelative:models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToDoController.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\ApiToDoJson\\Controllers\\ToDoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ToDoController.cs",
+              "ToolTip": "C:\\Users\\henri\\source\\repos\\ApiToDoJson\\Controllers\\ToDoController.cs",
+              "RelativeToolTip": "Controllers\\ToDoController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwC4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T18:52:07.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDoService.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\ApiToDoJson\\Services\\ToDoService.cs",
+              "RelativeDocumentMoniker": "Services\\ToDoService.cs",
+              "ToolTip": "C:\\Users\\henri\\source\\repos\\ApiToDoJson\\Services\\ToDoService.cs",
+              "RelativeToolTip": "Services\\ToDoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T18:49:58.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ToDoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\ApiToDoJson\\Repositories\\ToDoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ToDoRepository.cs",
+              "ToolTip": "C:\\Users\\henri\\source\\repos\\ApiToDoJson\\Repositories\\ToDoRepository.cs",
+              "RelativeToolTip": "Repositories\\ToDoRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T18:49:47.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IToDoService.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\ApiToDoJson\\Interfaces\\IToDoService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IToDoService.cs",
+              "ToolTip": "C:\\Users\\henri\\source\\repos\\ApiToDoJson\\Interfaces\\IToDoService.cs",
+              "RelativeToolTip": "Interfaces\\IToDoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T18:49:31.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IToDoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\ApiToDoJson\\Interfaces\\IToDoRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IToDoRepository.cs",
+              "ToolTip": "C:\\Users\\henri\\source\\repos\\ApiToDoJson\\Interfaces\\IToDoRepository.cs",
+              "RelativeToolTip": "Interfaces\\IToDoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T18:49:11.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ToDoItem.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\ApiToDoJson\\Models\\ToDoItem.cs",
+              "RelativeDocumentMoniker": "Models\\ToDoItem.cs",
+              "ToolTip": "C:\\Users\\henri\\source\\repos\\ApiToDoJson\\Models\\ToDoItem.cs",
+              "RelativeToolTip": "Models\\ToDoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T18:45:45.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\ApiToDoJson\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\henri\\source\\repos\\ApiToDoJson\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T18:43:25.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

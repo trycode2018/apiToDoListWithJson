@@ -1,0 +1,6 @@
+@ApiToDoJson_HostAddress = http://localhost:5085
+
+GET {{ApiToDoJson_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

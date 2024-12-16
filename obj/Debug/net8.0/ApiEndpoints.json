@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "ApiToDoJson.Controllers.ToDoController",
+    "Method": "GetAll",
+    "RelativePath": "api/ToDo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiToDoJson.Controllers.ToDoController",
+    "Method": "Add",
+    "RelativePath": "api/ToDo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "item",
+        "Type": "ApiToDoJson.Models.ToDoItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiToDoJson.Controllers.ToDoController",
+    "Method": "GetById",
+    "RelativePath": "api/ToDo/id",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiToDoJson.Controllers.ToDoController",
+    "Method": "Update",
+    "RelativePath": "api/ToDo/id",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "item",
+        "Type": "ApiToDoJson.Models.ToDoItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiToDoJson.Controllers.ToDoController",
+    "Method": "Delete",
+    "RelativePath": "api/ToDo/id",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
